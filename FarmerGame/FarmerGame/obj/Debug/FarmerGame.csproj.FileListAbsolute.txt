@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2012\Projects\FarmerGame\FarmerGame\bin\Debug\FarmerGame.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\FarmerGame\FarmerGame\bin\Debug\FarmerGame.exe
+c:\users\admin\documents\visual studio 2012\Projects\FarmerGame\FarmerGame\bin\Debug\FarmerGame.pdb
+c:\users\admin\documents\visual studio 2012\Projects\FarmerGame\FarmerGame\obj\Debug\FarmerGame.exe
+c:\users\admin\documents\visual studio 2012\Projects\FarmerGame\FarmerGame\obj\Debug\FarmerGame.pdb
+c:\users\admin\documents\visual studio 2012\Projects\FarmerGame\FarmerGame\obj\Debug\FarmerGame.csprojResolveAssemblyReference.cache

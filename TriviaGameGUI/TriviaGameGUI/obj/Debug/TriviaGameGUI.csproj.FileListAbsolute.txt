@@ -1,0 +1,10 @@
+c:\users\admin\documents\visual studio 2012\Projects\TriviaGameGUI\TriviaGameGUI\bin\Debug\TriviaGameGUI.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\TriviaGameGUI\TriviaGameGUI\bin\Debug\TriviaGameGUI.exe
+c:\users\admin\documents\visual studio 2012\Projects\TriviaGameGUI\TriviaGameGUI\bin\Debug\TriviaGameGUI.pdb
+c:\users\admin\documents\visual studio 2012\Projects\TriviaGameGUI\TriviaGameGUI\obj\Debug\TriviaGameGUI.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\TriviaGameGUI\TriviaGameGUI\obj\Debug\TriviaGameGUI.FrmMain.resources
+c:\users\admin\documents\visual studio 2012\Projects\TriviaGameGUI\TriviaGameGUI\obj\Debug\TriviaGameGUI.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2012\Projects\TriviaGameGUI\TriviaGameGUI\obj\Debug\TriviaGameGUI.TriviaUI.resources
+c:\users\admin\documents\visual studio 2012\Projects\TriviaGameGUI\TriviaGameGUI\obj\Debug\TriviaGameGUI.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2012\Projects\TriviaGameGUI\TriviaGameGUI\obj\Debug\TriviaGameGUI.exe
+c:\users\admin\documents\visual studio 2012\Projects\TriviaGameGUI\TriviaGameGUI\obj\Debug\TriviaGameGUI.pdb

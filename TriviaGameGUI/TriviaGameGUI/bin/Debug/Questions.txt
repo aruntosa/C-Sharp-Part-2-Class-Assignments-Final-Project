@@ -1,0 +1,20 @@
+1)Which of the following is not a valid variable name declaration?
+int _a3, int a_3, int 3_a, int _3a
+C
+Variable name cannot start with a digit.
+2)Which of the following is not a valid C variable name?
+int number, float rate, int variable_count, int $main
+D
+Since only underscore and no other special character is allowed in a variable name, it results in an error.
+3)Which of the following is true for variable names in C?
+They can contain alphanumeric characters as well as special characters, It is not an error to declare a variable to be one of the keywords, Variable names cannot start with a digit, Variable can be of any length
+C
+According to the syntax for C variable name, it cannot start with a digit.
+4)The format identifier ‘%i’ is also used for _____ data type?
+char, int, float, double
+B
+Both %d and %i can be used as a format identifier for int data type.
+5)Which data type is most suitable for storing a number 65000 in a 32-bit system?
+short, int, long, double
+A
+65000 comes in the range of short (16-bit) which occupies the least memory.

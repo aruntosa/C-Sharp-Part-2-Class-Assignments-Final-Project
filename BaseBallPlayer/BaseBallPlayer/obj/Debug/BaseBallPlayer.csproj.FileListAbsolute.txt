@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2012\Projects\BaseBallPlayer\BaseBallPlayer\bin\Debug\BaseBallPlayer.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\BaseBallPlayer\BaseBallPlayer\bin\Debug\BaseBallPlayer.exe
+c:\users\admin\documents\visual studio 2012\Projects\BaseBallPlayer\BaseBallPlayer\bin\Debug\BaseBallPlayer.pdb
+c:\users\admin\documents\visual studio 2012\Projects\BaseBallPlayer\BaseBallPlayer\obj\Debug\BaseBallPlayer.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\BaseBallPlayer\BaseBallPlayer\obj\Debug\BaseBallPlayer.exe
+c:\users\admin\documents\visual studio 2012\Projects\BaseBallPlayer\BaseBallPlayer\obj\Debug\BaseBallPlayer.pdb

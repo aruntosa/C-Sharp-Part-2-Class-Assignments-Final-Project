@@ -1,0 +1,12 @@
+c:\users\admin\documents\visual studio 2012\Projects\Trivia\Trivia\bin\Debug\Trivia.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\Trivia\Trivia\bin\Debug\Trivia.exe
+c:\users\admin\documents\visual studio 2012\Projects\Trivia\Trivia\bin\Debug\Trivia.pdb
+c:\users\admin\documents\visual studio 2012\Projects\Trivia\Trivia\obj\Debug\Trivia.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\Trivia\Trivia\obj\Debug\Trivia.exe
+c:\users\admin\documents\visual studio 2012\Projects\Trivia\Trivia\obj\Debug\Trivia.pdb
+C:\Users\admin\Desktop\Private\MATC Semester III\Intermediate OOPS\Full Assignments\Trivia\Trivia\bin\Debug\Trivia.exe.config
+C:\Users\admin\Desktop\Private\MATC Semester III\Intermediate OOPS\Full Assignments\Trivia\Trivia\obj\Debug\Trivia.exe
+C:\Users\admin\Desktop\Private\MATC Semester III\Intermediate OOPS\Full Assignments\Trivia\Trivia\obj\Debug\Trivia.pdb
+C:\Users\admin\Desktop\Private\MATC Semester III\Intermediate OOPS\Full Assignments\Trivia\Trivia\bin\Debug\Trivia.exe
+C:\Users\admin\Desktop\Private\MATC Semester III\Intermediate OOPS\Full Assignments\Trivia\Trivia\bin\Debug\Trivia.pdb
+C:\Users\admin\Desktop\Private\MATC Semester III\Intermediate OOPS\Full Assignments\Trivia\Trivia\obj\Debug\Trivia.csprojResolveAssemblyReference.cache

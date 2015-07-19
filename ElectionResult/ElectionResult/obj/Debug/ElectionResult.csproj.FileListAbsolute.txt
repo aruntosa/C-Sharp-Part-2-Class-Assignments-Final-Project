@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2012\Projects\ElectionResult\ElectionResult\bin\Debug\ElectionResult.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\ElectionResult\ElectionResult\bin\Debug\ElectionResult.exe
+c:\users\admin\documents\visual studio 2012\Projects\ElectionResult\ElectionResult\bin\Debug\ElectionResult.pdb
+c:\users\admin\documents\visual studio 2012\Projects\ElectionResult\ElectionResult\obj\Debug\ElectionResult.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\ElectionResult\ElectionResult\obj\Debug\ElectionResult.exe
+c:\users\admin\documents\visual studio 2012\Projects\ElectionResult\ElectionResult\obj\Debug\ElectionResult.pdb

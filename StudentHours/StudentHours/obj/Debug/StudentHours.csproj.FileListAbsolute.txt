@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2012\Projects\StudentHours\StudentHours\bin\Debug\StudentHours.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\StudentHours\StudentHours\obj\Debug\StudentHours.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\StudentHours\StudentHours\bin\Debug\StudentHours.exe
+c:\users\admin\documents\visual studio 2012\Projects\StudentHours\StudentHours\bin\Debug\StudentHours.pdb
+c:\users\admin\documents\visual studio 2012\Projects\StudentHours\StudentHours\obj\Debug\StudentHours.exe
+c:\users\admin\documents\visual studio 2012\Projects\StudentHours\StudentHours\obj\Debug\StudentHours.pdb

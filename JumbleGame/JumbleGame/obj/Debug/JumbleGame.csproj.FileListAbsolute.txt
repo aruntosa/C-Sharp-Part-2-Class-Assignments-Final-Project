@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2012\Projects\JumbleGame\JumbleGame\bin\Debug\JumbleGame.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\JumbleGame\JumbleGame\bin\Debug\JumbleGame.exe
+c:\users\admin\documents\visual studio 2012\Projects\JumbleGame\JumbleGame\bin\Debug\JumbleGame.pdb
+c:\users\admin\documents\visual studio 2012\Projects\JumbleGame\JumbleGame\obj\Debug\JumbleGame.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\JumbleGame\JumbleGame\obj\Debug\JumbleGame.exe
+c:\users\admin\documents\visual studio 2012\Projects\JumbleGame\JumbleGame\obj\Debug\JumbleGame.pdb

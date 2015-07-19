@@ -1,0 +1,18 @@
+c:\users\admin\documents\visual studio 2012\Projects\FarmerGameGUI\FarmerGameGUI\bin\Debug\FarmerGameGUI.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\FarmerGameGUI\FarmerGameGUI\bin\Debug\FarmerGameGUI.exe
+c:\users\admin\documents\visual studio 2012\Projects\FarmerGameGUI\FarmerGameGUI\bin\Debug\FarmerGameGUI.pdb
+c:\users\admin\documents\visual studio 2012\Projects\FarmerGameGUI\FarmerGameGUI\obj\Debug\FarmerGameGUI.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\FarmerGameGUI\FarmerGameGUI\obj\Debug\FarmerGameGUI.frmMain.resources
+c:\users\admin\documents\visual studio 2012\Projects\FarmerGameGUI\FarmerGameGUI\obj\Debug\FarmerGameGUI.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2012\Projects\FarmerGameGUI\FarmerGameGUI\obj\Debug\FarmerGameGUI.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2012\Projects\FarmerGameGUI\FarmerGameGUI\obj\Debug\FarmerGameGUI.exe
+c:\users\admin\documents\visual studio 2012\Projects\FarmerGameGUI\FarmerGameGUI\obj\Debug\FarmerGameGUI.pdb
+C:\Users\admin\Desktop\New folder\FarmerGameGUI\FarmerGameGUI\bin\Debug\FarmerGameGUI.exe.config
+C:\Users\admin\Desktop\New folder\FarmerGameGUI\FarmerGameGUI\obj\Debug\FarmerGameGUI.exe
+C:\Users\admin\Desktop\New folder\FarmerGameGUI\FarmerGameGUI\obj\Debug\FarmerGameGUI.pdb
+C:\Users\admin\Desktop\New folder\FarmerGameGUI\FarmerGameGUI\bin\Debug\FarmerGameGUI.exe
+C:\Users\admin\Desktop\New folder\FarmerGameGUI\FarmerGameGUI\bin\Debug\FarmerGameGUI.pdb
+C:\Users\admin\Desktop\New folder\FarmerGameGUI\FarmerGameGUI\obj\Debug\FarmerGameGUI.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\New folder\FarmerGameGUI\FarmerGameGUI\obj\Debug\FarmerGameGUI.frmMain.resources
+C:\Users\admin\Desktop\New folder\FarmerGameGUI\FarmerGameGUI\obj\Debug\FarmerGameGUI.Properties.Resources.resources
+C:\Users\admin\Desktop\New folder\FarmerGameGUI\FarmerGameGUI\obj\Debug\FarmerGameGUI.csproj.GenerateResource.Cache
